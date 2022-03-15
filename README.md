@@ -5,4 +5,4 @@ Pcb-Gcode was used with older versions of Eagle to generate gcode cnc files dire
 
 The mirror ulp is used be new versions of Eagle to mirror layers appropriate for cutting using cnc.
 
-Read more here. https://sites.google.com/hdsb.ca/toolsfortechnologystudents/circuit-boards/circuit-boards-on-a-desktop-cnc/using-eagle
+Read more here. https://sites.google.com/hdsb.ca/toolsfortechnologystudents/circuit-boards/circuit-boards-on-a-desktop-cnc
